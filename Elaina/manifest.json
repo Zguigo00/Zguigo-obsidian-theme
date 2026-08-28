@@ -1,0 +1,9 @@
+{
+  "name": "Elaina",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "author": "zguigo",
+  "authorUrl": "https://github.com/Zguigo00",
+  "description": "A custom Obsidian theme inspired by Elaina, the Ashen Witch from Majo no Tabitabi.",
+  "isDesktopOnly": false
+}
