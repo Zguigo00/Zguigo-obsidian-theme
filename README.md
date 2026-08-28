@@ -13,5 +13,3 @@
 1. 将整个 `Elaina` 文件夹复制到笔记库路径下：`.obsidian/themes/`
 2. 设置 → 外观 → 主题，选择 `Elaina` 启用。
 
-
-
